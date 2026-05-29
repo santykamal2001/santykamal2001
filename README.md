@@ -21,8 +21,6 @@
 ---
 
 <!-- CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ```python
 class SanthosKamal:
     name        = "Santhos Kamal A B"
@@ -46,9 +44,6 @@ class SanthosKamal:
     def motto(self):
         return "Ship production-grade AI — fast, reliable, and explainable."
 ```
-
-<br clear="right"/>
-
 ---
 
 <!-- TECH BADGES -->
@@ -108,22 +103,6 @@ class SanthosKamal:
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-<!-- GITHUB STATS + TOP LANGUAGES -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/santykamal2001">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santykamal2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/santykamal2001">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santykamal2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
 <!-- STREAK STATS -->
 ## 🔥 Streak
 
@@ -141,16 +120,6 @@ class SanthosKamal:
 </p>
 
 ---
-
-<!-- TROPHY WALL -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santykamal2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</p>
-
----
-
 <!-- WORK EXPERIENCE -->
 ## 💼 Work Experience
 
